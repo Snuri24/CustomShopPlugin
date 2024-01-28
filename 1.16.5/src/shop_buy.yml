@@ -1,0 +1,29 @@
+type: buy
+'1':
+  item: '{id:"minecraft:clock",Count:1b,tag:{display:{Lore:[''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"중고로
+    저렴하게 샀는데 아무래도"}],"text":""}'',''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"짝퉁같다."}],"text":""}''],Name:''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"명품
+    시계"}],"text":""}''}}}'
+  name: 명품 시계
+  price: 60000
+'2':
+  item: '{id:"minecraft:compass",Count:1b,tag:{display:{Lore:[''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"콜럼버스가
+    사용한 나침반이다."}],"text":""}'',''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"세월의
+    때가 묻어있지만 아직 쓸만하다."}],"text":""}''],Name:''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"콜럼버스의
+    나침반"}],"text":""}''}}}'
+  name: 콜럼버스의 나침반
+  price: 100000
+'3':
+  item: '{id:"minecraft:book",Count:1b,tag:{display:{Lore:[''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"나만의
+    비밀을 적어놓은 일기장이다."}],"text":""}'',''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"분명
+    아무도 모르는 곳에 숨겨뒀는데..."}],"text":""}''],Name:''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":"숨겨둔
+    일기장"}],"text":""}''}}}'
+  name: 숨겨둔 일기장
+  price: 80000
+'4':
+  item: '{id:"minecraft:elytra",Count:1b,tag:{Damage:0,display:{Lore:[''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"원래
+    겉날개는 엔더 함선에서만 구할"}],"text":""}'',''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"수
+    있었지만 이제는 대형마트에서도"}],"text":""}'',''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"구할
+    수 있게 되었다."}],"text":""}''],Name:''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"평범한
+    겉날개"}],"text":""}''}}}'
+  name: 평범한 겉날개
+  price: 220000

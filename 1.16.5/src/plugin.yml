@@ -1,0 +1,20 @@
+name: CustomShopPlugin
+main: com.snuri.customshopplugin.CustomShopPlugin
+version: 1.1.0
+description: CustomShopPlugin Description
+api-version: 1.16
+author: Snuri
+depend: []
+commands:
+    cs:
+      aliases: [ cshop ]
+      description: 커스텀샵 명령어입니다.
+      usage: /<command>
+      permission:
+      permission-message: 권한을 갖고있지 않습니다.
+    money:
+      aliases: [ 돈 ]
+      description: 돈 관련 명령어입니다.
+      usage: /<command>
+      permission:
+      permission-message: 권한을 갖고있지 않습니다.

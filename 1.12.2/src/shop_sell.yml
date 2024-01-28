@@ -1,0 +1,89 @@
+type: sell
+'1':
+  item: '{id:"minecraft:bread",Count:1b,Damage:0s}'
+  name: 빵
+  price: 3000
+'2':
+  item: '{id:"minecraft:melon",Count:1b,Damage:0s}'
+  name: 수박
+  price: 1500
+'3':
+  item: '{id:"minecraft:carrot",Count:1b,Damage:0s}'
+  name: 당근
+  price: 2000
+'4':
+  item: '{id:"minecraft:potato",Count:1b,Damage:0s}'
+  name: 감자
+  price: 1500
+'5':
+  item: '{id:"minecraft:pumpkin",Count:1b,Damage:0s}'
+  name: 호박
+  price: 4000
+'6':
+  item: '{id:"minecraft:cobblestone",Count:1b,Damage:0s}'
+  name: 조약돌
+  price: 100
+'7':
+  item: '{id:"minecraft:coal",Count:1b,Damage:0s}'
+  name: 석탄
+  price: 2500
+'8':
+  item: '{id:"minecraft:iron_ingot",Count:1b,Damage:0s}'
+  name: 철괴
+  price: 6000
+'9':
+  item: '{id:"minecraft:gold_ingot",Count:1b,Damage:0s}'
+  name: 금괴
+  price: 8000
+'10':
+  item: '{id:"minecraft:diamond",Count:1b,Damage:0s}'
+  name: 다이아몬드
+  price: 10000
+'11':
+  item: '{id:"minecraft:redstone",Count:1b,Damage:0s}'
+  name: 레드스톤
+  price: 3000
+'12':
+  item: '{id:"minecraft:emerald",Count:1b,Damage:0s}'
+  name: 에메랄드
+  price: 25000
+'13':
+  item: '{id:"minecraft:chicken",Count:1b,Damage:0s}'
+  name: 익히지 않은 닭고기
+  price: 3000
+'14':
+  item: '{id:"minecraft:porkchop",Count:1b,Damage:0s}'
+  name: 익히지 않은 돼지고기
+  price: 3500
+'15':
+  item: '{id:"minecraft:beef",Count:1b,Damage:0s}'
+  name: 익히지 않은 소고기
+  price: 5000
+'16':
+  item: '{id:"minecraft:egg",Count:1b,Damage:0s}'
+  name: 달걀
+  price: 1500
+'17':
+  item: '{id:"minecraft:wool",Count:1b,Damage:0s}'
+  name: 하얀색 양털
+  price: 4000
+'18':
+  item: '{id:"minecraft:leather",Count:1b,Damage:0s}'
+  name: 가죽
+  price: 4000
+'19':
+  item: '{id:"minecraft:fish",Count:1b,Damage:0s}'
+  name: 날생선
+  price: 2500
+'20':
+  item: '{id:"minecraft:fish",Count:1b,Damage:1s}'
+  name: 생연어
+  price: 5500
+'21':
+  item: '{id:"minecraft:fish",Count:1b,Damage:2s}'
+  name: 흰동가리
+  price: 8500
+'22':
+  item: '{id:"minecraft:fish",Count:1b,Damage:3s}'
+  name: 복어
+  price: 10000
