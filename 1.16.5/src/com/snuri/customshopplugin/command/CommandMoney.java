@@ -99,7 +99,7 @@ public class CommandMoney implements CommandExecutor {
 			
 			Player p = Bukkit.getPlayer(args[1]);
 			if(p != null) {
-				p.sendMessage(String.format("§e운영자에 의해 %s님의 돈이 %,d원 추가되었습니다.", args[1], amount));
+				p.sendMessage(String.format("§e운영자에 의해 %s님의 돈이 %,d원 제거되었습니다.", args[1], amount));
 			}
 			return true;
 		}
